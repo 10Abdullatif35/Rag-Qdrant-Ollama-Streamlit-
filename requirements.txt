@@ -1,0 +1,9 @@
+sentence-transformers
+qdrant-client
+trafilatura
+streamlit
+requests
+beautifulsoup4
+uuid
+trafilatura
+lxml_html_clean

@@ -1,0 +1,50 @@
+[
+  { "url": "https://www.etiya.com/tr/hakkimizda", "category": "Hakkımızda", "subcategory": "Genel" },
+  { "url": "https://www.etiya.com/tr/hakkimizda/sirket-profili", "category": "Hakkımızda", "subcategory": "Şirket Profili" },
+  { "url": "https://www.etiya.com/tr/hakkimizda/yonetim-ekibi", "category": "Hakkımızda", "subcategory": "Yönetim Ekibi" },
+  { "url": "https://www.etiya.com/tr/hakkimizda/neden-etiya", "category": "Hakkımızda", "subcategory": "Neden Etiya" },
+  { "url": "https://www.etiya.com/tr/hakkimizda/referanslar", "category": "Hakkımızda", "subcategory": "Referanslar" },
+  { "url": "https://www.etiya.com/tr/hakkimizda/oduller", "category": "Hakkımızda", "subcategory": "Ödüller" },
+  { "url": "https://www.etiya.com/tr/hakkimizda/is-ortaklari", "category": "Hakkımızda", "subcategory": "İş Ortakları" },
+  { "url": "https://www.etiya.com/tr/hakkimizda/surdurulebilirlik", "category": "Hakkımızda", "subcategory": "Sürdürülebilirlik" },
+  { "url": "https://www.etiya.com/tr/hakkimizda/sosyal-sorumluluk", "category": "Hakkımızda", "subcategory": "Sosyal Sorumluluk" },
+
+  { "url": "https://www.etiya.com/tr/urunler", "category": "Ürünler", "subcategory": "Genel" },
+  { "url": "https://www.etiya.com/tr/urunler/musteri-iliskileri-yonetimi", "category": "Ürünler", "subcategory": "Müşteri İlişkileri Yönetimi" },
+  { "url": "https://www.etiya.com/tr/urunler/urun-katalogu-yonetimi", "category": "Ürünler", "subcategory": "Ürün Kataloğu Yönetimi" },
+  { "url": "https://www.etiya.com/tr/urunler/teklif-yonetimi", "category": "Ürünler", "subcategory": "Teklif Yönetimi" },
+  { "url": "https://www.etiya.com/tr/urunler/siparis-yonetimi", "category": "Ürünler", "subcategory": "Sipariş Yönetimi" },
+  { "url": "https://www.etiya.com/tr/urunler/musteri-hizmetleri-yonetimi", "category": "Ürünler", "subcategory": "Müşteri Hizmetleri Yönetimi" },
+  { "url": "https://www.etiya.com/tr/urunler/omnichannel-dijital-onyuz", "category": "Ürünler", "subcategory": "Omnichannel Dijital Önyüz" },
+  { "url": "https://www.etiya.com/tr/urunler/gelir-yonetimi", "category": "Ürünler", "subcategory": "Gelir Yönetimi" },
+  { "url": "https://www.etiya.com/tr/urunler/chatbot", "category": "Ürünler", "subcategory": "Chatbot" },
+  { "url": "https://www.etiya.com/tr/urunler/kampanya-yonetimi", "category": "Ürünler", "subcategory": "Kampanya Yönetimi" },
+  { "url": "https://www.etiya.com/tr/urunler/dijital-etkilesim-yonetimi", "category": "Ürünler", "subcategory": "Dijital Etkileşim Yönetimi" },
+  { "url": "https://www.etiya.com/tr/urunler/yapay-zeka-platformu", "category": "Ürünler", "subcategory": "Yapay Zeka Platformu" },
+  { "url": "https://www.etiya.com/tr/urunler/flowe-platformu", "category": "Ürünler", "subcategory": "Flowe Platformu" },
+
+  { "url": "https://www.etiya.com/tr/cozumler", "category": "Çözümler", "subcategory": "Genel" },
+  { "url": "https://www.etiya.com/tr/cozumler/dijital-musteri-yonetim-platformu", "category": "Çözümler", "subcategory": "Dijital Müşteri Yönetimi" },
+  { "url": "https://www.etiya.com/tr/cozumler/ag-satis-ve-yonetim-platformu", "category": "Çözümler", "subcategory": "Ağ Satış ve Yönetim Platformu" },
+  { "url": "https://www.etiya.com/tr/cozumler/otomotiv-dijital-musteri-yonetim-platformu", "category": "Çözümler", "subcategory": "Otomotiv Dijital Müşteri Yönetimi" },
+
+  { "url": "https://www.etiya.com/tr/servisler", "category": "Servisler", "subcategory": "Genel" },
+  { "url": "https://www.etiya.com/tr/servisler/yonetilen-servisler", "category": "Servisler", "subcategory": "Yönetilen Servisler" },
+  { "url": "https://www.etiya.com/tr/servisler/bt-servisleri", "category": "Servisler", "subcategory": "BT Servisleri" },
+  { "url": "https://www.etiya.com/tr/servisler/dijital-donusum", "category": "Servisler", "subcategory": "Dijital Dönüşüm" },
+
+  { "url": "https://www.etiya.com/tr/bize-ulasin", "category": "İletişim", "subcategory": "Bize Ulaşın" },
+
+  { "url": "https://engagehub.etiya.com/biz-kimiz", "category": "EngageHub", "subcategory": "Biz Kimiz" },
+  { "url": "https://engagehub.etiya.com/biz-kimiz/degerlerimiz", "category": "EngageHub", "subcategory": "Değerlerimiz" },
+  { "url": "https://engagehub.etiya.com/biz-kimiz/neden-etiya", "category": "EngageHub", "subcategory": "Neden Etiya" },
+  { "url": "https://engagehub.etiya.com/biz-kimiz/yonetim-ekibi", "category": "EngageHub", "subcategory": "Yönetim Ekibi" },
+  { "url": "https://engagehub.etiya.com/biz-kimiz/referanslar", "category": "EngageHub", "subcategory": "Referanslar" },
+
+  { "url": "https://engagehub.etiya.com/urunler", "category": "EngageHub", "subcategory": "Ürünler Genel" },
+  { "url": "https://engagehub.etiya.com/urunler/ik-chatbot", "category": "EngageHub", "subcategory": "İK Chatbot" },
+  { "url": "https://engagehub.etiya.com/urunler/bt-chatbot", "category": "EngageHub", "subcategory": "BT Chatbot" },
+  { "url": "https://engagehub.etiya.com/urunler/satis-and-destek-chatbot", "category": "EngageHub", "subcategory": "Satış & Destek Chatbot" },
+  { "url": "https://engagehub.etiya.com/urunler/dijital-kanal-takip-platformu", "category": "EngageHub", "subcategory": "Dijital Kanal Takip Platformu" },
+  { "url": "https://engagehub.etiya.com/urunler/musteri-hizmetleri-platformu", "category": "EngageHub", "subcategory": "Müşteri Hizmetleri Platformu" }
+]

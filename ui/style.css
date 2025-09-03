@@ -1,0 +1,45 @@
+/* ---------- Global renkler ---------- */
+:root{
+  --etiya-orange:#EF7E2C;
+  --etiya-bg:#FFF7F0;
+}
+
+/* Başlık (h1) */
+h1 {
+  color: var(--etiya-orange) !important;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+}
+
+/* Birincil buton */
+button[data-testid="baseButton-primary"]{
+  background-color: var(--etiya-orange) !important;
+  border: none !important;
+  color:#fff !important;
+}
+button[data-testid="baseButton-primary"]:hover{
+  filter:brightness(90%);
+}
+
+/* Yan panel başlığı */
+section[data-testid="stSidebar"] .stHeading{
+  color: var(--etiya-orange);
+}
+
+/* Alert & spinner arka planları */
+.stAlert{
+  background-color: var(--etiya-bg) !important;
+}
+/* Streamlit >= 1.32 spinner */
+div[data-testid="stSpinner"] > div{
+  background-color: var(--etiya-bg);
+  border:1px solid #F4D9C2;
+}
+
+/* Footer */
+div.footer{
+  margin-top:2rem;
+  font-size:0.8rem;
+  text-align:center;
+  color:#666;
+}
